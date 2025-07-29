@@ -72,25 +72,25 @@ export default function GlobetideTravel() {
   const popularDestinations = [
     {
       name: "Pakistan",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/destination-pakistan.jpeg",
       rating: 4.8,
       discount: "20% OFF",
     },
     {
       name: "India",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/destination-india-2.jpg",
       rating: 4.9,
       discount: "15% OFF",
     },
     {
       name: "Bangladesh",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/destination-bangladesh-2.jpg",
       rating: 4.7,
       discount: "25% OFF",
     },
     {
       name: "Saudi Arabia",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "/destination-saudi.jpg",
       rating: 4.6,
       discount: "10% OFF",
     },
@@ -100,7 +100,7 @@ export default function GlobetideTravel() {
     {
       title: "Dubai Grand Tour",
       duration: "14 Days",
-      image: "/placeholder.svg?height=300&width=500",
+      image: "/tour-dubai-3.jpg",
       rating: 4.9,
     },
     {
@@ -656,7 +656,7 @@ export default function GlobetideTravel() {
                   </div>
                   <div>
                     <p className="font-semibold">Call Us</p>
-                    <p className="text-teal-200">+92 321 1245382</p>
+                    <p className="text-teal-200">+44 778 156 1031</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -666,7 +666,7 @@ export default function GlobetideTravel() {
                   <div>
                     <p className="font-semibold">Email Us</p>
                     <p className="text-teal-200">
-                      GlobeTidetravel@outlook.com{" "}
+                      GlobeTidetravel@outlook.com
                     </p>
                   </div>
                 </div>

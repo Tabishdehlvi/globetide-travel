@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'GlobeTide Travel',
-  description: 'Teavel Companty',
+  description: 'Travel Company',
 }
 
 export default function RootLayout({
